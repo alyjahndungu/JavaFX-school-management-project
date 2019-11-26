@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://E:/dummy/School-Management-System-JavaFX-master/School-Management-System-JavaFX-master/lib/controlsfx-8.40.13.jar" />
+    <libelement value="file://E:/dummy/School-Management-System-JavaFX-master/School-Management-System-JavaFX-master/lib/fontawesomefx-commons-8.13.jar" />
+    <libelement value="file://E:/dummy/School-Management-System-JavaFX-master/School-Management-System-JavaFX-master/lib/fontawesomefx-fontawesome-4.7.0-1.jar" />
+    <libelement value="file://E:/dummy/School-Management-System-JavaFX-master/School-Management-System-JavaFX-master/lib/joda-time-2.9.1.jar" />
+    <libelement value="file://E:/dummy/School-Management-System-JavaFX-master/School-Management-System-JavaFX-master/lib/recurrence-8.4.2.jar" />
+    <libelement value="file://E:/dummy/School-Management-System-JavaFX-master/School-Management-System-JavaFX-master/lib/view-8.4.2.jar" />
+    <libelement value="file://E:/flash/mysqljdbc.jar" />
+    <conelement value="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER" level="application" />
+    <orderEntry type="module-library">
+      <library name="controlsfx-8.40.13.jar">
+        <CLASSES>
+          <root url="file://E:/dummy/School-Management-System-JavaFX-master/School-Management-System-JavaFX-master/lib/controlsfx-8.40.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fontawesomefx-commons-8.13.jar">
+        <CLASSES>
+          <root url="file://E:/dummy/School-Management-System-JavaFX-master/School-Management-System-JavaFX-master/lib/fontawesomefx-commons-8.13.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fontawesomefx-fontawesome-4.7.0-1.jar">
+        <CLASSES>
+          <root url="file://E:/dummy/School-Management-System-JavaFX-master/School-Management-System-JavaFX-master/lib/fontawesomefx-fontawesome-4.7.0-1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="joda-time-2.9.1.jar">
+        <CLASSES>
+          <root url="file://E:/dummy/School-Management-System-JavaFX-master/School-Management-System-JavaFX-master/lib/joda-time-2.9.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="recurrence-8.4.2.jar">
+        <CLASSES>
+          <root url="file://E:/dummy/School-Management-System-JavaFX-master/School-Management-System-JavaFX-master/lib/recurrence-8.4.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="view-8.4.2.jar">
+        <CLASSES>
+          <root url="file://E:/dummy/School-Management-System-JavaFX-master/School-Management-System-JavaFX-master/lib/view-8.4.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysqljdbc.jar">
+        <CLASSES>
+          <root url="file://E:/flash/mysqljdbc.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
